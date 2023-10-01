@@ -1,0 +1,14 @@
+[package]
+name = "f4yking/profileservice"
+description = "Universal session-locked savable table API - Forked by f4yking"
+version = "1.0.0"
+
+authors = ["MadStudioRoblox", "LM-loleris", "LucasMZReal", "Baileyeatspizza"]
+
+realm = "server"
+registry = "https://github.com/UpliftGames/wally-index"
+
+exclude = ["**"]
+include = ["ProfileService.lua", "default.project.json", "wally.toml"]
+
+private = false
