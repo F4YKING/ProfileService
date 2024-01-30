@@ -1,3 +1,10 @@
+# Forked by f4yking
+I added this to [wally](https://wally.run/package/f4yking/profileservice?version=1.0.1) with lastest version of `1.0.1`
+```toml
+profileservice = "f4yking/profileservice@1.0.1"
+```
+and also theres a `ProfilService.Profile` type!
+
 # Madwork - ProfileService
 
 ProfileService is a stand-alone ModuleScript that specialises in loading and auto-saving

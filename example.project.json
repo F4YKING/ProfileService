@@ -1,6 +1,6 @@
 {
 	"name": "ProfileService",
-	"servePlaceIds": null,
+	"servePlaceIds": [],
 	"tree": {
 		"$className": "DataModel",
 		"ServerScriptService": {
